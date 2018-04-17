@@ -1,4 +1,4 @@
-# rapiraxx
+# rapira++ (Рапира++)
 
 Educational programming language Rapira++ (1998-2001)
 * Russian and Altay keywords
