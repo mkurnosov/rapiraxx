@@ -1,0 +1,98 @@
+{\rtf1\ansi\deff0\deftab720{\fonttbl{\f0\fnil MS Sans Serif;}{\f1\froman\fcharset2{\*\fname Symbol;}MT Symbol;}{\f2\fmodern\fcharset204{\*\fname Courier New;}Courier New Cyr;}{\f3\fmodern Courier New;}}
+{\colortbl\red0\green0\blue0;\red0\green0\blue255;\red0\green128\blue0;\red128\green0\blue0;}
+\deflang1033\pard\plain\f2\fs18\cf0 //\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 ***********************************************\plain\f2\fs18\cf1 
+\par \plain\f2\fs18\cf0 //\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'d0\'e8\'f1\'ee\'e2\'e0\'ed\'e8\'e5\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'f0\'ee\'e1\'ee\'f2\'e0.\plain\f2\fs18\cf1 
+\par \plain\f2\fs18\cf0 //\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 Written\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 by\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 Mahonin\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 Ivan\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 aka\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 BaHo\plain\f2\fs18\cf1 
+\par \plain\f2\fs18\cf0 //\plain\f2\fs18\cf1 
+\par \plain\f2\fs18\cf0 //\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'c8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2\'f1\'ff\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'e8\'f1\'ef\'ee\'eb\'ed\'e8\'f2\'e5\'eb\'fc\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'cf\'e5\'f0\'ee\plain\f2\fs18\cf1 
+\par \plain\f2\fs18\cf0 //\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 ***********************************************\plain\f2\fs18\cf1 
+\par 
+\par \'cf\'f0\'ee\'f6 \plain\f2\fs18\cf0 \'d1\'f2\'e0\'f0\'f2()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'c2\'fb\'e2\'ee\'e4\plain\f2\fs18\cf1  \plain\f2\fs18\cf2 '\'cd\'e0\'f7\'e0\'f2\'fc.'\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 //\'ef\'e5\'f0\'ee1.\'e2\'e8\'e4\'e8\'ec\'ee\'f1\'f2\'fc\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 :=\plain\f2\fs18\cf1  \plain\f2\fs18\cf3 .\'eb.\plain\f2\fs18\cf1  
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'ee\'e4\'ed\'ff\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'e5\'f0\'e5\'ec\'e5\'f9\'e5\'ed\'e8\'e5(30,15)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ee\'ef\'f3\'f1\'f2\'e8\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(20,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,15)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-20,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,-15)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'ee\'e4\'ed\'ff\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'e5\'f0\'e5\'ec\'e5\'f9\'e5\'ed\'e8\'e5(35,20)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ee\'ef\'f3\'f1\'f2\'e8\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(10,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,5)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-10,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,-5)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'ee\'e4\'ed\'ff\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'e5\'f0\'e5\'ec\'e5\'f9\'e5\'ed\'e8\'e5(30,30)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ee\'ef\'f3\'f1\'f2\'e8\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-10,10)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,30)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(40,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,-30)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-10,-10)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'ee\'e4\'ed\'ff\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'e5\'f0\'e5\'ec\'e5\'f9\'e5\'ed\'e8\'e5(20,40)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ee\'ef\'f3\'f1\'f2\'e8\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-10,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,20)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(10,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'ee\'e4\'ed\'ff\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'e5\'f0\'e5\'ec\'e5\'f9\'e5\'ed\'e8\'e5(60,40)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ee\'ef\'f3\'f1\'f2\'e8\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(10,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,20)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-10,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'ee\'e4\'ed\'ff\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'e5\'f0\'e5\'ec\'e5\'f9\'e5\'ed\'e8\'e5(20,70)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ee\'ef\'f3\'f1\'f2\'e8\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-10,10)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(60,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-10,-10)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'ee\'e4\'ed\'ff\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'e5\'f0\'e5\'ec\'e5\'f9\'e5\'ed\'e8\'e5(40,70)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ee\'ef\'f3\'f1\'f2\'e8\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,10)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'ee\'e4\'ed\'ff\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'e5\'f0\'e5\'ec\'e5\'f9\'e5\'ed\'e8\'e5(30,45)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ee\'ef\'f3\'f1\'f2\'e8\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,15)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(5,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(10,-10)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,10)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(5,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,-15)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-5,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-10,10)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(0,-10)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'f1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(-5,0)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'ee\'e4\'ed\'ff\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee1.\'ef\'e5\'f0\'e5\'ec\'e5\'f9\'e5\'ed\'e8\'e5(80,35)\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 //\'ef\'e5\'f0\'ee1.\'e2\'e8\'e4\'e8\'ec\'ee\'f1\'f2\'fc\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 :=\plain\f2\fs18\cf1  \plain\f2\fs18\cf3 .\'e8.\plain\f2\fs18\cf1 
+\par \'ca\'ee\'ed \'ef\'f0\'ee\'f6 
+\par 
+\par \'ca\'eb\'e0\'f1\'f1 \plain\f2\fs18\cf0 \'cf\'e5\'f0\'ee\plain\f2\fs18\cf1 
+\par   \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee_\'ee\'ef\'f3\'f9\'e5\'ed\'ee\plain\f2\fs18\cf1 
+\par   \'cf\'f0\'ee\'f6 \plain\f2\fs18\cf0 \'cf\'e5\'f0\'e5\'ec\'e5\'f9\'e5\'ed\'e8\'e5(\'e8\'ea\'f1,\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'e8\'e3\'f0\'e8\'ea)\plain\f2\fs18\cf1 
+\par     \plain\f2\fs18\cf0 \'f1\'eb\'e5\'e2\'e0\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 :=\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'e8\'ea\'f1\plain\f2\fs18\cf1 
+\par     \plain\f2\fs18\cf0 \'f1\'e2\'e5\'f0\'f5\'f3\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 :=\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'e8\'e3\'f0\'e8\'ea\plain\f2\fs18\cf1 
+\par   \'ea\'ee\'ed \'ef\'f0\'ee\'f6
+\par   \'cf\'f0\'ee\'f6 \plain\f2\fs18\cf0 \'d1\'ec\'e5\'f1\'f2\'e8\'f2\'fc\'f1\'ff_\'ed\'e0_\'e2\'e5\'ea\'f2\'ee\'f0(\'e8\'ea\'f1,\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'e8\'e3\'f0\'e8\'ea)\plain\f2\fs18\cf1 
+\par     \'e5\'f1\'eb\'e8 \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee_\'ee\'ef\'f3\'f9\'e5\'ed\'ee\plain\f2\fs18\cf1 
+\par     \plain\f2\fs18\cf0 \'eb\'e8\'ed\'e8\'ff(\'f1\'eb\'e5\'e2\'e0,\'f1\'e2\'e5\'f0\'f5\'f3,\'f1\'eb\'e5\'e2\'e0\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 +\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'e8\'ea\'f1,\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'f1\'e2\'e5\'f0\'f5\'f3\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 +\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'e8\'e3\'f0\'e8\'ea,clblack)\plain\f2\fs18\cf1 
+\par     \'e2\'f1\'b8
+\par     \plain\f2\fs18\cf0 \'f1\'eb\'e5\'e2\'e0\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 :=\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'f1\'eb\'e5\'e2\'e0\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 +\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'e8\'ea\'f1\plain\f2\fs18\cf1 
+\par     \plain\f2\fs18\cf0 \'f1\'e2\'e5\'f0\'f5\'f3\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 :=\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'f1\'e2\'e5\'f0\'f5\'f3\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 +\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 \'e8\'e3\'f0\'e8\'ea\plain\f2\fs18\cf1 
+\par   \'ea\'ee\'ed \'ef\'f0\'ee\'f6
+\par   \'cf\'f0\'ee\'f6 \plain\f2\fs18\cf0 \'ce\'ef\'f3\'f1\'f2\'e8\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par     \plain\f2\fs18\cf0 \'ea\'e0\'f0\'f2\'e8\'ed\'ea\'e0\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 :=\plain\f2\fs18\cf1  \plain\f2\fs18\cf2 'options/pic/p1.bmp'\plain\f2\fs18\cf1 
+\par     \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee_\'ee\'ef\'f3\'f9\'e5\'ed\'ee\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 :=\plain\f2\fs18\cf1  \plain\f2\fs18\cf3 .\'e8.\plain\f2\fs18\cf1 
+\par   \'ea\'ee\'ed \'ef\'f0\'ee\'f6
+\par   \'cf\'f0\'ee\'f6 \plain\f2\fs18\cf0 \'cf\'ee\'e4\'ed\'ff\'f2\'fc_\'ef\'e5\'f0\'ee()\plain\f2\fs18\cf1 
+\par     \plain\f2\fs18\cf0 \'ea\'e0\'f0\'f2\'e8\'ed\'ea\'e0\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 :=\plain\f2\fs18\cf1  \plain\f2\fs18\cf2 'options/pic/p2.bmp'\plain\f2\fs18\cf1 
+\par     \plain\f2\fs18\cf0 \'ef\'e5\'f0\'ee_\'ee\'ef\'f3\'f9\'e5\'ed\'ee\plain\f2\fs18\cf1  \plain\f2\fs18\cf0 :=\plain\f2\fs18\cf1  \plain\f2\fs18\cf3 .\'eb.\plain\f2\fs18\cf1 
+\par   \'ea\'ee\'ed \'ef\'f0\'ee\'f6
+\par \'ca\'ee\'ed \'ca\'eb\'e0\'f1\'f1\plain\f2\fs18\cf0 
+\par }
+ 
